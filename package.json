@@ -1,0 +1,13 @@
+{
+  "name"         : "node-crawler",
+  "version"      : "0.0.1",
+  "description"  : "",
+  "main"         : "app.js",
+  "author"       : "Hussan",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "phantom"    : "latest"
+  }
+}
